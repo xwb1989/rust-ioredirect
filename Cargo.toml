@@ -1,0 +1,5 @@
+[package]
+
+name = "ioredirect"
+version = "0.0.1"
+authors = ["Wenbin Xiao <xwb1989@gmail.com>"]
